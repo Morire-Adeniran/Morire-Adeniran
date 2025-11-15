@@ -1,9 +1,12 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 📫 How to reach me: ...
+My Name is Morire Adeniran and I am a Data Analyst,who love turning complex raw data into actionable business insights
+
+- 🔭 I’m currently extracting insights from an E-commerce data to solve
+  several business problems  across sales,customer behaviour and product performance.
+- 🌱 I’m currently learning and mastering SQL and Python
+- 👯 I’m looking to collaborate on project including E-commerce Analysis
+- 📫 How to reach me: morireadeniran@gmail.com
 
 <!--
 **Morire-Adeniran/Morire-Adeniran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
