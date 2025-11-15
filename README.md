@@ -1,24 +1,23 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Morire Adeniran</h1>
+<h3 align="center">I am a Data Analyst passionate about transforming complex data into actionable insights and compelling stories</h3>
 
-My Name is Morire Adeniran and I am a Data Analyst,who love turning complex raw data into actionable business insights
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=morire-adeniran&label=Profile%20views&color=0e75b6&style=flat" alt="morire-adeniran" /> </p>
 
-- 🔭 I’m currently extracting insights from an E-commerce data to solve
-  several business problems  across sales,customer behaviour and product performance.
-- 🌱 I’m currently learning and mastering SQL and Python
-- 👯 I’m looking to collaborate on project including E-commerce Analysis
-- 📫 How to reach me: morireadeniran@gmail.com
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=morire-adeniran" alt="morire-adeniran" /></a> </p>
 
-<!--
-**Morire-Adeniran/Morire-Adeniran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on **extracting insights from an E-commerce data to solve several business problems across sales,customer behaviour and product performance.**
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning **and mastering SQL and Python**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👯 I’m looking to collaborate on **projects including E-commerce Analysis**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=morire-adeniran&show_icons=true&locale=en&layout=compact" alt="morire-adeniran" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=morire-adeniran&show_icons=true&locale=en" alt="morire-adeniran" /></p>
