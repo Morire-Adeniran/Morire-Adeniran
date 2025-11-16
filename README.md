@@ -39,28 +39,5 @@ I'm **Morire**, a data analyst passionate about transforming complex data into a
 <br/>  
 
 
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=morire-adeniran&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
-<br/>  
-
-  
-
-<br/>  
-
-  
-
-<br/>  
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=morire-adeniran&&style=flat-square" align="center" />
-</div>  
-  
-
-<br/>  
-
-
-<br />
-
 
 
