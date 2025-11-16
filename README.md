@@ -1,5 +1,8 @@
-### HI 👋
-I'm **Morire**, a data analyst passionate about transforming complex data into actionable insights.</div>  
+<h1 align="center">HI 👋,I'm Morire Adeniran <h1></h1>
+<h3 align="center"> A data analyst passionate about transforming complex data into actionable insights</h3>
+<img align="right" alt="coding" width="400" src="https://github.com/user-attachments/assets/3b639011-6e95-45f3-9318-8f49fcea14c0"
+
+ **OPEN TO WORK**
 
 - 👨‍💻 I’m currently working on extracting insights from an E-commerce data to solve  several business problems  across sales,customer behaviour and product performance.  
   
@@ -8,9 +11,6 @@ I'm **Morire**, a data analyst passionate about transforming complex data into a
   
 
 - 👫I’m looking to collaborate on project including E-commerce Analysis
-  
-  ![Image](https://github.com/user-attachments/assets/3b639011-6e95-45f3-9318-8f49fcea14c0)
-   **OPEN TO WORK**
 
   
 
