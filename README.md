@@ -1,16 +1,16 @@
 ### HI 👋
 I'm **Morire**, a data analyst passionate about transforming complex data into actionable insights.</div>  
 
-
 - 👨‍💻 I’m currently working on extracting insights from an E-commerce data to solve  several business problems  across sales,customer behaviour and product performance.  
   
 
 -  📗I’m currently learning and mastering SQL and Python  
   
 
-- 👫I’m looking to collaborate on project including E-commerce Analysis  
+- 👫I’m looking to collaborate on project including E-commerce Analysis
   
-
+  ![Image](https://github.com/user-attachments/assets/3b639011-6e95-45f3-9318-8f49fcea14c0)
+   **OPEN TO WORK**
 
   
 
