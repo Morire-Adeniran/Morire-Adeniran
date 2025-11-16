@@ -4,6 +4,11 @@
 
  **OPEN TO WORK**
 
+ <div align="left">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=morire-adeniran&"  />
+
+
+
 - 👨‍💻 I’m currently working on extracting insights from an E-commerce data to solve  several business problems  across sales,customer behaviour and product performance.  
   
 
