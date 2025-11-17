@@ -1,5 +1,5 @@
 <h1 align="center">HI 👋,I'm Morire Adeniran <h1></h1>
-<h3 align="center"> A data analyst passionate about transforming complex data into actionable insights</h3>
+<h3 align="center"> A Data Analyst Passionate about Converting Complex Data into Clear,Critical Decision.</h3>
 <img align="right" alt="coding" width="400" src="https://github.com/user-attachments/assets/3b639011-6e95-45f3-9318-8f49fcea14c0"
 
  **OPEN TO WORK**
@@ -31,12 +31,14 @@
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
 ## Connect with me  
+
+<a href="https://linkedin.com/in/morireadeniran" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+
 <div align="left">
 <a href="https://github.com/morire-adeniran" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+ 
 </a>
-<a href="https://linkedin.com/in/morireadeniran" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>  
 </div>  
 
